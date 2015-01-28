@@ -18,5 +18,10 @@
     "repository":  "DirtyUnicorns/android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
     "branch":      "lollipop-caf"
+  },
+  {
+    "repository":  "DirtyUnicorns/android_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "lollipop-caf"
   }
 ]
