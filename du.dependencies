@@ -17,7 +17,7 @@
   {
     "repository":  "chris4824/android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
-    "branch":      "cm12.0"
+    "branch":      "lp5.0"
   },
   {
     "repository":  "TheMuppets/proprietary_vendor_samsung",
