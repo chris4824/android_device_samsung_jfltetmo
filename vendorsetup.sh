@@ -1,2 +1,2 @@
-add_lunch_combo du_jfltetmo-userdebug
+add_lunch_combo validus_jfltetmo-userdebug
 
