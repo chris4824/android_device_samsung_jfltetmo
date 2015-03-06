@@ -1,6 +1,6 @@
 [
   {
-    "repository": "CyanogenMod/android_device_samsung_jf-common",
+    "repository": "chris4824/android_device_samsung_jf-common",
     "target_path":"device/samsung/jf-common",
     "branch":     "cm12.0"
   },
