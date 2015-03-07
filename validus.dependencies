@@ -7,12 +7,12 @@
   {
     "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path":"device/samsung/qcom-common",
-    "branch":     "cm12.0"
+    "branch":     "cm-12.0"
   },
   {
     "repository":  "CyanogenMod/android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
-    "branch":      "cm12.0"
+    "branch":      "cm-12.0"
   },
   {
     "repository":  "chris4824/android_kernel_samsung_jf",
@@ -22,6 +22,6 @@
   {
     "repository":  "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch":      "cm12.0"
+    "branch":      "cm-12.0"
   }
 ]
